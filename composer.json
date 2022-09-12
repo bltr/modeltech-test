@@ -2,7 +2,8 @@
     "name": "bltr/modeltech-test",
     "require": {
         "php": "^8.1",
-        "symfony/console": "^6.1"
+        "symfony/console": "^6.1",
+        "webmozart/assert": "^1.11"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^3.11",
